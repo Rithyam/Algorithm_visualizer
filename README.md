@@ -1,6 +1,6 @@
 # algorithms_visualiser
 
-[link to the website](https://algorithms-visualiser.herokuapp.com/)
+[link to the website](https://algorithm-visualiser.onrender.com/)
 
 <hr />
 
